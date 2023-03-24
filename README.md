@@ -1,8 +1,7 @@
 👋 Hi there,nice to meet you,bro☕
 ---
 📌A CS student, have a mania for self-taught backend web developer from china   
-
-> Aim to be a warmth developer
+🎉 [MyBlog](https://github.com/HealUP/MyBlog)
 
  <!-- waka-box start -->
  <!-- waka-box end -->
