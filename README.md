@@ -70,12 +70,6 @@ Repo🧑‍💻
 ---
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HealUP&count_private=true&show_icons=true&theme=gruvbox&hide_border=true) 
 
-
-
-
-
-
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HealUP&repo=InternetEy&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) &emsp;
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=HealUP&repo=NowCoder-community&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
