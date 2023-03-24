@@ -60,7 +60,7 @@ VS Code                  5 mins              ███████░░░░�
 
 Language🚀
 ---
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HealUP&layout=compact&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HealUP&layout=compact&hide_border=true)](https://github.com/HealUP/InternetEyun-frontend)
 
 Repo🧑‍💻
 ---
