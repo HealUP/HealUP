@@ -1,20 +1,17 @@
 👋 Hi there,nice to meet you,bro☕
 ---
-A CS student, have a mania for self-taught backend web developer from china   
+📌A CS student, have a mania for self-taught backend web developer from china   
 
 > Aim to be a warmth developer
 
  <!-- waka-box start -->
  <!-- waka-box end -->
  
-🧲Interested
-- coding💻
-- study📖
-- sports：running&Orienteering🏃‍
-- Photography📸
-- recording✍️
+🧲**Interested**
+--
+Coding💻| study📖| sports：running&Orienteering🏃‍| Photography📸| recording✍️| Interesting😁
 
-WakaTime🗓️
+WakaTime👨‍💻
 ---
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-28%20mins-blue)
