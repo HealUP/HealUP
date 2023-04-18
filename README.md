@@ -1,9 +1,8 @@
 👋 Hi there,nice to meet you,bro☕
 ---
 💻A CS student, have a mania for self-taught backend web developer from china   
-📌[MyBlog](https://github.com/HealUP/MyBlog)
-
-📌[MyItems](https://healup.github.io/)
+👣[MyBlog](https://github.com/HealUP/MyBlog)
+💡[MyItems](https://healup.github.io/)
 
  <!-- waka-box start -->
  <!-- waka-box end -->
