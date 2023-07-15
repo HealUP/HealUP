@@ -14,8 +14,6 @@ Coding💻| study📖| sports：running&Orienteering🏃‍| Photography📸| re
 WakaTime👨‍💻
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-251%20hrs%203%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-167.7%20thousand%20lines%20of%20code-blue)
@@ -75,7 +73,7 @@ Repo🧑‍💻
 
 Contact me📱:
 ---
-📮Mail:denszhi@gmail.com  
+📮Mail:deng_zh@icloud.com  
 📬Twitter:@Denszhi  
 
 > Thank you for your attention, looking forward to progress together.🎉
