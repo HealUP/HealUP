@@ -14,8 +14,6 @@ Coding💻| study📖| sports：running&Orienteering🏃‍| Photography📸| re
 WakaTime👨‍💻
 ---
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-167.7%20thousand%20lines%20of%20code-blue)
 
 **I'm a Night 🦉** 
