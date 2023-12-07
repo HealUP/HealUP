@@ -14,14 +14,47 @@ Coding💻| study📖| sports：running&Orienteering🏃‍| Photography📸| re
 WakaTime👨‍💻
 ---
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-512%20hrs%2057%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-513%20hrs%2033%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-204.5%20thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-204.6%20thousand%20lines%20of%20code-blue)
+
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                40 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+🌆 Daytime                196 commits         ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+🌃 Evening                448 commits         ████████████████░░░░░░░░░   63.01 % 
+🌙 Night                  27 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 % 
+```
+📅 **I'm Most Productive on Thursday** 
+
+```text
+Monday                   70 commits          ██░░░░░░░░░░░░░░░░░░░░░░░   09.85 % 
+Tuesday                  76 commits          ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
+Wednesday                94 commits          ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Thursday                 130 commits         █████░░░░░░░░░░░░░░░░░░░░   18.28 % 
+Friday                   122 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.16 % 
+Saturday                 127 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.86 % 
+Sunday                   92 commits          ███░░░░░░░░░░░░░░░░░░░░░░   12.94 % 
+```
 
 
- Last Updated on 06/12/2023 15:22:41 UTC
+📊 **This Week I Spent My Time On** 
+
+```text
+🕑︎ Time Zone: Asia/Shanghai
+
+💬 Programming Languages: 
+No Activity Tracked This Week
+
+🔥 Editors: 
+No Activity Tracked This Week
+```
+
+
+ Last Updated on 07/12/2023 15:22:23 UTC
 <!--END_SECTION:waka-->
 
 Language🚀
