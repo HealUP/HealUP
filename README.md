@@ -2,7 +2,6 @@
 ---
 💻A CS student, have a mania for self-taught backend web developer from china   
 📌[博客(Blog)](https://github.com/HealUP/MyBlog)
-💡[项目(Iteam)](https://healup.github.io/)
 
  <!-- waka-box start -->
  <!-- waka-box end -->
@@ -78,6 +77,3 @@ Repo🧑‍💻
 Contact me📱:
 ---
 📮Mail:deng_zh@icloud.com  
-📬Twitter:@Denszhi  
-
-> Thank you for your attention, looking forward to progress together.🎉
